@@ -21,7 +21,7 @@ const App = () => {
 
     setInterval(()=> {
       dispatch(getFlights())
-    }, 10000000)
+    }, 13000)
   }, [])
 
   return (
