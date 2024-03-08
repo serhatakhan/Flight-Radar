@@ -29,3 +29,8 @@ Proje, uçakların gerçek zamanlı olarak izlenebileceği bir uçak takip uygul
 * **Axios:** Veri tabanından uçuş verilerini uygulamaya çekmek için kullanıldı. API: https://rapidapi.com/apidojo/api/flight-radar1
 
 ## Ekran Gifi
+
+
+
+
+
