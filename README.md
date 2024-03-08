@@ -30,7 +30,5 @@ Proje, uçakların gerçek zamanlı olarak izlenebileceği bir uçak takip uygul
 
 ## Ekran Gifi
 
-
-
-
+![kayt1-ezgif com-video-to-gif-converter](https://github.com/serhatakhan/Flight-Radar/assets/147662915/322b2da2-e47e-47ab-be06-ecfd3b0905a9)
 
